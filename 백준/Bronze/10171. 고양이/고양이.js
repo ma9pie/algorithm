@@ -1,7 +1,4 @@
-const res = `
-\\    /\\
- )  ( ')
-(  /  )
- \\(__)|
-  `;
-console.log(res.trim());
+console.log(`\\    /\\`);
+console.log(` )  ( ')`);
+console.log(`(  /  )`);
+console.log(` \\(__)|`);
